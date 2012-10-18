@@ -12,7 +12,7 @@ namespace Cockroach
         private IPluginHost m_host = null;
         private CockroachGen m_gen = null;
 
-        string updateurl = "http://192.168.1.100/version/cockroach_version.txt"; //检测更新
+        string updateurl = "http://www.ifooth.com/cockroach/version"; //检测更新
         public override string UpdateUrl
         {
             get
