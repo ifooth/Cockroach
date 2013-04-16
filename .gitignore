@@ -2,5 +2,6 @@
 bin
 obj
 .suo
+*.plgx
 # mstest test results
 TestResults
